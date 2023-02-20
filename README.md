@@ -2,7 +2,7 @@
 
 ## YouTube Video
 
-[![Screen Shot 2022-10-16 at 17 06 38 1](https://user-images.githubusercontent.com/58401630/196043156-37f4efff-5120-40fc-8382-d8f3025fb405.png)](https://www.youtube.com/watch?v=WR1EhDOmCbo)
+[![Screen Shot 2022-10-16 at 17 06 38 1](https://user-images.githubusercontent.com/58401630/196043156-37f4efff-5120-40fc-8382-d8f3025fb405.png)](https://www.youtube.com/watch?v=bNdb59taq4g)
 
 ## Final
 
